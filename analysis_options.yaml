@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - lib/utils/*.gr.dart
+    - lib/locale/*.g.dart
+    - lib/models/device_model.dart
+    - lib/models/settings_model.dart
+    - lib/models/user_model.dart
+    - lib/services/db_user_service.dart
+    # - lib/models/*.dart
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+  errors:
+    invalid_annotation_target: ignore
