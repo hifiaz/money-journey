@@ -18,5 +18,5 @@ Next we will make function to insert our balance, and graphich and our bank!
 Feel free if you want contribute on this project
 contact me in [twitter](https://twitter.com/hifiaz)
 
-##Download App
-[download](https://github.com/hifiaz/money-journey/master/assets/app-release.apk)
+## Download App
+[download](https://github.com/hifiaz/money-journey/blob/master/assets/app-release.apk)
