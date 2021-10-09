@@ -1,5 +1,5 @@
 # Money journey
-<img src="https://raw.githubusercontent.com/hifiaz/country-list-pick/master/assets/money-bag.png" width="240"/>
+<img src="https://raw.githubusercontent.com/hifiaz/money-journey/master/assets/money-bag.png" width="240"/>
 <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 Motivation: mostly we spend lot of money but we don't know where is he going. So we need app to track our spending money
@@ -7,7 +7,7 @@ Motivation: mostly we spend lot of money but we don't know where is he going. So
 First stage this of this app will build simple layout to insert our spending money
 Next we will make function to insert our balance, and graphich and our bank!
 
-<img src="https://raw.githubusercontent.com/hifiaz/country-list-pick/master/assets/demo.png" width="240"/>
+<img src="https://raw.githubusercontent.com/hifiaz/money-journey/master/assets/demo.png" width="240"/>
 
 ## What iside App
 1. [Supabase](https://supabase.io) we use their auth function, and to store data, and i think this easily than firebase
